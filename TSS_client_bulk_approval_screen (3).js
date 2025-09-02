@@ -179,9 +179,4 @@ define(['N/currentRecord','N/url','N/format'],
            
     };
 });
-//changes 
-//hvbljbkb
-//vryi
-//jhvewfywveu
-///hjgcvk,jlkjnhgc
-//jyguiojiopiuvhgcf
+ git add "TSS_client_bulk_approval_screen (3).js"
